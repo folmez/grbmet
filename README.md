@@ -1,2 +1,3 @@
 # grbmet
-Generate regulated Brownian motion escape times
+MatLab code for generating regulated (or reflected) Brownian motion escape times
+(CITE RBM paper)
